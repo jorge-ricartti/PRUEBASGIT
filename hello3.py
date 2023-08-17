@@ -1,1 +1,1 @@
-print("BUSCO MORRITA PARA MI COMPA")
+print("Ya encontro morrita")
